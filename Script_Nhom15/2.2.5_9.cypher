@@ -1,0 +1,2 @@
+//3.1
+MATCH p=()-[r:SCORED_GOAL]->() RETURN p LIMIT 25
